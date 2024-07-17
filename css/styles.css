@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #e7e7e7;
+}
